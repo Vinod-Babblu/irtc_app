@@ -5,7 +5,7 @@
   <artifactId>01-Maven-App</artifactId>
   <packaging>jar</packaging>
   <version>1.2-SNAPSHOT</version>
-  <name>irctc-Application</name>
+  <name>irctc-Applicationnew</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
