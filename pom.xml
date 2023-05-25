@@ -4,14 +4,14 @@
   <groupId>Vinod.IT</groupId>
   <artifactId>01-Maven-App</artifactId>
   <packaging>jar</packaging>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.3-SNAPSHOT</version>
   <name>irctc-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>3.8.2</version>
       <scope>test123</scope>
     </dependency>
   </dependencies>
